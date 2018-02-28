@@ -13,7 +13,7 @@ Obviamente no todo el mundo tiene que comprar el hardware, no lo vamos a necesit
 
 - Saber algo de python. Recomiendo [este tutorial de numpy](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html) para poder extraer el máximo, aunque no es necesario.
 - Saber lo que es la media y la varianza. Hay conceptos de análisis de datos pero lo explicaré todo de forma visual. (*)
-- Tener instalado docker, [leete el tutorial](install)
+- Tener instalado docker, [leete el tutorial](install.md)
 - Unas cuantas imágenes que también publicaré
 
 ### Pero yo quiero construir el coche entero
