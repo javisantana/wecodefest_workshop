@@ -3,7 +3,7 @@ Instala [docker](https://www.docker.com/). Cada plataforma tiene su método. Ech
 Ejecuta lo siguiente en la consola:
 
 ```
-mkdir workshop
+git clone https://github.com/javisantana/wecodefest_workshop workshop
 cd workshop
 docker run -it --rm -p 8888:8888 -v `pwd`:/home/jovyan/work jupyter/scipy-notebook
 ```
